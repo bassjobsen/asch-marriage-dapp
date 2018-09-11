@@ -1,0 +1,17 @@
+{
+  "name": "Asch sample Dapp",
+  "link": "https://github.com/sqfasd/asch-hello-dapp/archive/master.zip",
+  "category": 1,
+  "description": "Asch Dapp",
+  "tags": "",
+  "icon": "http://o7dyh3w0x.bkt.clouddn.com/hello.png",
+  "delegates": [
+    "d1facb776188e7776810b2f1d048dfc5c049cfaaea71db06092990522298f0f0",
+    "3a8ae68edd9a127a899365092a52778d03f1070a283e7cea1ad4efd83237602c",
+    "3ac06b5f1fbc35c5debb44d402f7d540de077bb1f68089328cb24554aaeaba21",
+    "d2c1508203415ea09b9197a7ccdcbdebf23ce6d7454ad21bfaa0c851f846f5b1",
+    "5daba5f0774903c3504065a375099b5b9b0452f7d970f85ad433c8a01ce6c20e"
+  ],
+  "unlockDelegates": 3,
+  "type": 0
+}

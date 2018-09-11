@@ -1,0 +1,14 @@
+address <address>
+propose null | <address>
+proposeDate null | <blockHeigth>
+marriage null | <address>
+marriageDate null | <blockHeigth>
+divorce null | <address>
+divorceDate null | <blockHeigth>
+
+Or
+address <address>
+spouse <address>
+status proposed|married|(divorceRequest|divorceRequestSpouse) ( |divorced -> destroy)
+Date null | <blockHeigth>
+
